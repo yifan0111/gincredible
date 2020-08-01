@@ -2,7 +2,6 @@
 layout: post
 title: "每日播客简记"
 date:   2020-07-27
-pinned: true 
 tags: [播客]
 author: Yifan
 ---
