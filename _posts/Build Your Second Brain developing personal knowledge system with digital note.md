@@ -12,8 +12,6 @@ author: Yifan
 
 ## Three steps 
 
-<img src="/Users/yifan/Library/Application Support/typora-user-images/截屏2020-08-01 下午5.58.21.png" alt="截屏2020-08-01 下午5.58.21" style="zoom:33%;" />
-
 ### Remember 
 
 1. keep them in digital form which you can go back to (searchable, dowlaodable)
@@ -52,13 +50,8 @@ author: Yifan
 
 - Examples, illustrations, statstics, booknotes, mindmaps diagrams and more
 - process
-
-<img src="/Users/yifan/Library/Application Support/typora-user-images/截屏2020-08-01 下午7.11.57.png" alt="截屏2020-08-01 下午7.11.57" style="zoom:33%;" />
-
  
 
 ## What is the first brain for?
-
-<img src="/Users/yifan/Library/Application Support/typora-user-images/截屏2020-08-01 下午7.16.10.png" alt="截屏2020-08-01 下午7.16.10" style="zoom:33%;" />
 
 - *trends, useful subjects and expertise to go for*
