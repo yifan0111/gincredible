@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "科学的指导或者背书"
-date:   2019-06-19
+date:   2020-03-25
 tags: [随笔]
 comments: true
 author: Yifan
