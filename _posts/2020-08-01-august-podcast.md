@@ -2,7 +2,6 @@
 layout: post
 title: "8月/每日播客简记"
 date:   2020-08-01
-pinned: true 
 tags: [播客]
 author: Yifan
 ---
