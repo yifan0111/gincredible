@@ -4,7 +4,7 @@ title: RSS订阅初级指北
 date:   2020-10-10
 tags: [随笔]
 comments: true
-author: Yifanœ
+author: Yifan
 ---
 
 有豆瓣友邻问我关于rss订阅的事情，我稍微总结了一下过去三年用RSS订阅作为自己主要也是几乎唯一网络信息源的经验。
