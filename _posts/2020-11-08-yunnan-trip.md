@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: 啰啰嗦嗦记云南十日
 date:   2020-11-08
-tags: [随笔]
+tags: [游记]
 comments: true
 author: Yifan
 ---
