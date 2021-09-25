@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 伦敦之后，北京以前 /
+title: 伦敦之后，北京以前
 date:   2021-09-24
 tags: [随笔]
 comments: true
